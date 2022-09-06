@@ -1,6 +1,14 @@
 ---
 title: "Language Models for Protein Design"
-excerpt: "Description<br/><img src='/images/500x300.png'> More description"
+excerpt: "Description<br/><img src='/images/500x300.png'><br/>References: 
+* ProtGPT2 is a deep unsupervised language model for protein design
+N Ferruz, S Schmidt, B Höcker
+Nature Communications
+
+* ProtGPT2 is a deep unsupervised language model for protein design
+N Ferruz, S Schmidt, B Höcker
+Nature Communications
+
 collection: portfolio
 ---
 
