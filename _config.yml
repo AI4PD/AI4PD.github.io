@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "AI4PD"
-  avatar           : "dalle2.png"
-  bio              : "Group focused on AI-powered protein design led by Noelia Ferruz"
+  avatar           : 
+  bio              : "Group focused on AI-powered protein design led by Noelia Ferruz (est. Jan 2023)"
   location         : "Barcelona"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Dx_xAXoAAAAJ&hl=de&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Noelia-Ferruz"
   uri              :
   bitbucket        :
   codepen          :
